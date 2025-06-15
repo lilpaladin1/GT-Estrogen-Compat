@@ -1,7 +1,7 @@
 /**
  *
  * Compatibility Script for Create: Estrogen
- * Removes Horse Urine and other things that are not really needed for this compatibility.
+ * Removes Horse Urine and other things that are not really needed for this compatibility from JEI.
  *
  */
 
